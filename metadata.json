@@ -1,0 +1,6 @@
+{
+  "name": "JalWatch - Smart Water Management",
+  "description": "Smart Water Management System for Wagholi Residential Societies. Monitor water availability, track tanker deliveries, manage complaints, and forecast consumption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
